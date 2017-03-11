@@ -1,0 +1,1 @@
+{"virtualbox":{"/home/vagrant/Code/ecommerce-demo":{"type":null,"mount_options":[],"guestpath":"/home/vagrant/Code/ecommerce-demo","hostpath":"/Users/maxheckel/Desktop/ecommerce-demo","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/maxheckel/Desktop/ecommerce-demo","disabled":false,"__vagrantfile":true}}}
